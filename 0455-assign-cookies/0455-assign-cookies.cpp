@@ -9,10 +9,10 @@ public:
             if (g[i] <= s[j]) {
                 c++;
                 i++;
+               
+            } 
                 j++;
-            } else {
-                j++;
-            }
+            
         }
         return c;
     }
