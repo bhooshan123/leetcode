@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/bhooshan123/leetcode/tree/master/0561-array-partition) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/bhooshan123/leetcode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/bhooshan123/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
