@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/bhooshan123/leetcode/tree/master/0069-sqrtx) |
+| [2645-pass-the-pillow](https://github.com/bhooshan123/leetcode/tree/master/2645-pass-the-pillow) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhooshan123/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/bhooshan123/leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
