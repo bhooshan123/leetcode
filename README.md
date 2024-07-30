@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/bhooshan123/leetcode/tree/master/2645-pass-the-pillow) |
+## String
+|  |
+| ------- |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/bhooshan123/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
