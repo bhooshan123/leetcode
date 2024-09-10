@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhooshan123/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bhooshan123/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/bhooshan123/leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
