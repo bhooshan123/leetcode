@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/bhooshan123/leetcode/tree/master/0134-gas-station) |
 | [0561-array-partition](https://github.com/bhooshan123/leetcode/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/bhooshan123/leetcode/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhooshan123/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhooshan123/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bhooshan123/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Sorting
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhooshan123/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/bhooshan123/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhooshan123/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/bhooshan123/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhooshan123/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/bhooshan123/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Matrix
 |  |
