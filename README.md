@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/bhooshan123/leetcode/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/bhooshan123/leetcode/tree/master/0134-gas-station) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhooshan123/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/bhooshan123/leetcode/tree/master/0561-array-partition) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/bhooshan123/leetcode/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhooshan123/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/bhooshan123/leetcode/tree/master/0561-array-partition) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhooshan123/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
