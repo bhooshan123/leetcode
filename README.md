@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhooshan123/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhooshan123/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bhooshan123/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [3195-separate-black-and-white-balls](https://github.com/bhooshan123/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhooshan123/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3195-separate-black-and-white-balls](https://github.com/bhooshan123/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Simulation
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/bhooshan123/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2502-sort-the-people](https://github.com/bhooshan123/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/bhooshan123/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3195-separate-black-and-white-balls](https://github.com/bhooshan123/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
